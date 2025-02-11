@@ -37,6 +37,12 @@ elif itest.s x8U == "x${cpu2}"  || itest.s x93 == "${cpu3}"; then
 	if itest ${env_part} != 0 ; then
 		offset=0x0
 	fi
+elif itest.s x95 == "${cpu3}"; then
+	a_base=0x90000000
+	offset=0x8000
+	if itest ${env_part} != 0 ; then
+		offset=0x0
+	fi
 fi
 
 qspi_match=1
