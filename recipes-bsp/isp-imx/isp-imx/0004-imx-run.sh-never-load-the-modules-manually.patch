@@ -1,4 +1,4 @@
-From e1b6255b84b5995633998f274836b391696a02ea Mon Sep 17 00:00:00 2001
+From 2b662ed96d0644ce55726186ab9ff078e0cf31ba Mon Sep 17 00:00:00 2001
 From: Gary Bisson <gary.bisson@ezurio.com>
 Date: Tue, 6 Jun 2023 17:55:52 +0200
 Subject: [PATCH 4/4] imx/run.sh: never load the modules manually

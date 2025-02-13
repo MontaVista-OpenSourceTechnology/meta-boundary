@@ -1,4 +1,4 @@
-From 966583bb28fb20c6ab571f19087b80703705646f Mon Sep 17 00:00:00 2001
+From ceac37930a8a1a2aae07cb28145b87ee36230275 Mon Sep 17 00:00:00 2001
 From: Gary Bisson <gary.bisson@ezurio.com>
 Date: Tue, 6 Jun 2023 17:25:47 +0200
 Subject: [PATCH 2/4] imx: add dual imx219 support
